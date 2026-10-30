@@ -1,4 +1,4 @@
-# Brain · Staff · Screen — Starter Kit
+# Brain · Staff · Screen: Starter Kit
 
 From Anderson Ntuk · AI Avengers Lab
 
